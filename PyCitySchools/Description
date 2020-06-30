@@ -1,0 +1,6 @@
+In the PyCity Schools data on the district, observable trends from the data include charter schools having better passing rates than district schools and schools with large enrollments recording lower grades and pass rates, especially in math, than the district as a whole.
+Charter schools show a more definitive gap in math grades than reading grades, then a more definitive gap in passing rates than the numeric grades. The gap in math is much larger than reading in the pass percentage as well, leading to a very large discrepancy once the overall pass rate is calculated.
+Likewise, when looking at school size by enrollment and grades and passing rates, there is a larger gap in math results than reading results. 
+In large schools, the math grade difference is about six points lower, compared to about 2.5 points in reading, when compared to schools with an enrollment of 2,000 or less. The gap in passing rates is wider, again, with math being a bigger drop than reading and the overall pass rate showing a major difference.
+This likely also correlates to the charter/district school division in data as seven of the eight charter schools have enrollments under 2,000 and all seven district schools are enrollments of more than 2,000.
+There doesn’t seem to be a noticeable difference in schools which I classified as “small” and “medium” size. 
